@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "weixing.png"
+  avatar           : "profile.png"
   name             : "Wei Xing"
   pronouns         : # example: "He"  
   bio              : "A Ph.D from College of Intelligent Systems Science and Engineering, Harbin Engineering University"
